@@ -2,7 +2,7 @@
 int sum(int *,int);
 void main(){
 
-int a[50],n,x;
+	int a[50],n,x=0;
 printf("Enter a element in array");
 scanf("%d",&n);
 
