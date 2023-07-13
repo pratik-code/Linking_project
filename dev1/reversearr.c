@@ -16,4 +16,6 @@ for(i=n-1;i>=0;i--){
 
     printf("%d\t",a[i]);
 }
+
 }
+exit(0);
